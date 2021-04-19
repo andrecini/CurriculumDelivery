@@ -1,0 +1,12 @@
+C:\Users\andre_000\Desktop\CurriculumDelivery\obj\Debug\CurriculumDelivery.csprojAssemblyReference.cache
+C:\Users\andre_000\Desktop\CurriculumDelivery\obj\Debug\CurriculumDelivery.Form1.resources
+C:\Users\andre_000\Desktop\CurriculumDelivery\obj\Debug\CurriculumDelivery.frmUserConfig.resources
+C:\Users\andre_000\Desktop\CurriculumDelivery\obj\Debug\CurriculumDelivery.csproj.GenerateResource.cache
+C:\Users\andre_000\Desktop\CurriculumDelivery\bin\Debug\CurriculumDelivery.exe.config
+C:\Users\andre_000\Desktop\CurriculumDelivery\bin\Debug\CurriculumDelivery.exe
+C:\Users\andre_000\Desktop\CurriculumDelivery\bin\Debug\CurriculumDelivery.pdb
+C:\Users\andre_000\Desktop\CurriculumDelivery\obj\Debug\CurriculumDelivery.Properties.Resources.resources
+C:\Users\andre_000\Desktop\CurriculumDelivery\obj\Debug\CurriculumDelivery.csproj.CoreCompileInputs.cache
+C:\Users\andre_000\Desktop\CurriculumDelivery\obj\Debug\CurriculumDelivery.exe
+C:\Users\andre_000\Desktop\CurriculumDelivery\obj\Debug\CurriculumDelivery.pdb
+C:\Users\andre_000\Desktop\CurriculumDelivery\obj\Debug\CurriculumDelivery.fmrCurriculumRegister.resources
